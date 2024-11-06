@@ -1,0 +1,41 @@
+{
+  "question": [
+    {
+      
+      "Vragen": "Hoe word de bruine draad in een stroom kring ook wel genoemd?",
+      "AntwoordA": "Bruin",
+      "AntwoordB": "Fasedraad",
+      "AntwoordC": "Nulldraad",
+      "AntwoordD": "Gronddraad",
+      "JuisteAntwoord": "B",
+      "punten": 2
+    },
+    {
+      "Vragen": "Hoe lang moet je een draad strippen?",
+      "AntwoordA": "0,5cm",
+      "AntwoordB": "1,5cm",
+      "AntwoordC": "0,75cm",
+      "AntwoordD": "Alle genoemde lengtes het verschilt per situatie.",
+      "JuisteAntwoord": "D",
+      "punten": 3
+    },
+    {
+      "Vragen": "Wat is de belangerijkste stap als je aan het werk gaat met stroom?",
+      "AntwoordA": "Juiste gereedschap gereed hebben",
+      "AntwoordB": "Je lunch",
+      "AntwoordC": "Kijken of het stroom wel werkt",
+      "AntwoordD": "Zorgen dat het stroom er af is wanneer je er mee gaat werken",
+      "JuisteAntwoord": "D",
+      "punten": 1
+    },
+    {
+      "Vragen": "Op welk draad zit altijd spanning.",
+      "AntwoordA": "Fasedraad",
+      "AntwoordB": "nulldraad",
+      "AntwoordC": "Schakeldraad",
+      "AntwoordD": "Gronddraad",
+      "JuisteAntwoord": "A",
+      "punten": 2
+    }
+ ]
+}
