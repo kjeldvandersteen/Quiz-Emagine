@@ -2117,7 +2117,7 @@ MonoBehaviour:
   - {fileID: 10279596}
   anwser: 
   questionIndex: 0
-  AwnserCorrect: {fileID: 626471064}
+  AnwserCorrect: {fileID: 626471064}
   points: {fileID: 1988686426}
   score: {fileID: 505437515}
   ResultPannel: {fileID: 476769498}
